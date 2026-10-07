@@ -54,12 +54,17 @@
 ---
 :briefcase: My projects :
 ---
-- ## [Chess Detective](#)
+- ## [Chess Detective ♟️](https://github.com/Prabhav-Agarwal/Chess-Detective)
     Tags: *#full-stack #MERN #data-pipeline*
 
-    A MERN-stack app that pulls a player's game history, parses it into structured data, and surfaces statistics like opening repertoire and recurring weaknesses (React, Node.js, Express, MongoDB, Chess.js).
+- **MVC architecture** with controllers, services, models, and views
+- **Stockfish integration** using Web Workers and WebAssembly
+- **Chess.com & Lichess APIs** with asynchronous data fetching
+- **Move classification, accuracy, opening detection, and engine lines**
+- **Interactive chessboard** with move-by-move navigation and game state management
+- Learned to structure and manage a **larger, more complex vanilla JS application**
 
-    *Currently in progress*
+    [Docs](https://github.com/Prabhav-Agarwal/Chess-Detective/blob/main/README.md) / [Live Demo](https://chessdetective.vercel.app)
 
 ---
 - ## [EatMap](https://github.com/Prabhav-Agarwal/Eat-Map)
